@@ -12,6 +12,12 @@ To get this to work, all you have to do is follow the instructions.
 2. cd into the directory
 3. Run the command "make"
 
+Because I'm the worst, this 'make' command will fail. Look through the different files in the source code and figure out what is broken, and fix it. 
+
+4. Run "make" again!
+
 The executable 'hellomake' will have been built. Execute it like any normal file, using './hellomake'. 
 
-Congratulations on building a program from source. I can't guarantee it will always be like this, but here is hoping!
+5. Commit and push your changes so that I can see how you modified the code.
+
+Congratulations on building a program from source. I can't guarantee fixing problems will be this easy, but here's hoping!
