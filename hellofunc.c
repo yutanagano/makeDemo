@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <hellomake.h>
 
-void myPrintHelloMake(void) {
+void myPrintHelloMake() {
 
-  printf("Hello makefiles!\n");
+  printf("Hello Yuta!\n");
 
   return;
 }
